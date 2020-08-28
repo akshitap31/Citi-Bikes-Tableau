@@ -15,7 +15,8 @@ A story has been created consisting of 7 dashboards each focusing on a particula
 * Tableau
 
 ## How to run the code
-* Download citi_bikes.twb file and open it in Tableau.
+* Click here:- [Tableau Public Link](https://public.tableau.com/profile/akshita.parasrampuria#!/vizhome/citi_bikes/Story1)
+* Alternatively, Download citi_bikes.twb file and open it in Tableau.
 
 ## Ouput and Observations 
 
